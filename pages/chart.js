@@ -367,6 +367,8 @@ const LineChart = () => {
                 type="range"
                 value={input}
                 style={{ height: 1, width: "895px" }}
+                // style={{ width: "100%" }}
+
                 min="1950"
                 max="2021"
               />
