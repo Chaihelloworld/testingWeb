@@ -88,7 +88,7 @@
 #play-range {
     transform: translate(0px,-1px);
     width: calc(100% - 90px);
-    background: #929292;
+    background: #ffffff00;
     -webkit-appearance: none; 
     cursor: pointer; 
 
@@ -102,7 +102,7 @@
   border-left: 5px solid transparent; /* Create left side of the triangle */
   border-right: 5px solid transparent; /* Create right side of the triangle */
   border-top: 10px solid #333; /* Create the base of the triangle */
-  transform: translate(18px, -5px); /* Translate the triangle horizontally */
+  transform: translate(18px, -0px); /* Translate the triangle horizontally */
   cursor: pointer; /* Change cursor style on hover */
 }
 
